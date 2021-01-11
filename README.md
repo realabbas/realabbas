@@ -9,8 +9,10 @@
       src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   
-  [![Ali Abbas's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/realabbas)
-
+  <a href="https://dev.to/realabbas">
+   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ali Abbas's DEV Community Profile" height="30" width="30">
+  </a>
+     
   <a href="https://twitter.com/aliremarks">
     <img alt="Twitter"
       src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
