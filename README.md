@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://dev.to/realabbas">
-   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ali Abbas's DEV Community Profile" height="30" width="30">
+   <img src="https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=Dev.to&logoColor=whiteg" alt="Ali Abbas's DEV Community Profile">
   </a>
      
   <a href="https://twitter.com/aliremarks">
