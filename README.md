@@ -30,10 +30,10 @@
 
 ### Developed Open Source Tools and Projects
 
-- [Github Actions React Native](https://github.com/realabbas/Github-Actions-React-Native)
-- [Scaling Node.js](https://github.com/realabbas/scaling-nodejs)
-- [AWS SNS OTP API](https://github.com/realabbas/AWS-SNS-OTP-API)
-- [Awesome Gsoc Roadmap](https://github.com/realabbas/awesome-gsoc-roadmap)
+- [Github-Actions-React-Native](https://github.com/realabbas/Github-Actions-React-Native)
+- [Scaling-Node.js](https://github.com/realabbas/scaling-nodejs)
+- [AWS-SNS-OTP-API](https://github.com/realabbas/AWS-SNS-OTP-API)
+- [Awesome-GSOC-Roadmap](https://github.com/realabbas/awesome-gsoc-roadmap)
 - [Razorpay-React-Native](https://github.com/realabbas/razorpay-react-native)
 - [Serverless-Lambda-Node-Express-Mongodb](https://github.com/realabbas/serverless-lambda-node-express-mongodb)
 - [Social-Media-Content-API](https://github.com/realabbas/Social-Media-Content-API)
