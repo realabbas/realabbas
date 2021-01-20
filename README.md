@@ -18,10 +18,11 @@
       src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
   </a>
   
-    <a href="https://www.npmjs.com/~realabbas?tab=packages">
+   <a href="https://www.npmjs.com/~realabbas?tab=packages">
     <img alt="NPM"
       src="https://img.shields.io/badge/-npm-red?style=for-the-badge&logo=npm&logoColor=white">
-  </a>
+   </a>
+ 
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=realabbas&show_icons=true&theme=chartreuse-dark)
