@@ -9,6 +9,10 @@
   <a href="https://dev.to/realabbas">
    <img src="https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=Dev.to&logoColor=whiteg" alt="Ali Abbas's DEV Community Profile">
   </a>
+    <a href="https://www.npmjs.com/~realabbas?tab=packages">
+    <img alt="NPM"
+      src="https://img.shields.io/badge/-npm-red?style=for-the-badge&logo=npm&logoColor=white">
+  </a>
      <a href="mailto:irizviali@gmail.com">
     <img alt="Email"
       src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:johnatan.dias@gmail.com">
@@ -24,4 +28,4 @@
 
 ### Developed and Published NPM Packages 
 
-![https://www.npmjs.com/package/srt-convert-json](https://img.shields.io/badge/-npm-red?style=for-the-badge&logo=npm&logoColor=white)
+- [Convert SRT to JSON Format](https://www.npmjs.com/package/srt-convert-json)
