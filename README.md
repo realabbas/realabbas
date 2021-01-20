@@ -21,3 +21,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=realabbas&show_icons=true&theme=chartreuse-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realabbas&layout=compact&theme=chartreuse-dark)
+
+### Developed and Published NPM Packages 
+
+![https://www.npmjs.com/package/srt-convert-json](https://img.shields.io/badge/-npm-red?style=for-the-badge&logo=npm&logoColor=white)
