@@ -54,3 +54,4 @@
 ### Developed and Published NPM Packages 
 
 - [Convert SRT to JSON Format](https://www.npmjs.com/package/srt-convert-json)
+- [Playstore App Info](https://www.npmjs.com/package/playstore-app-info)
